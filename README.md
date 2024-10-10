@@ -1,4 +1,4 @@
-# Harshitha-Arlapalli.github.io
+
 ## GitHub Pages
 
 Portfolio:
